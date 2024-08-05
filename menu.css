@@ -1,0 +1,37 @@
+{
+margin:0;
+padding:0;
+
+}
+#menu{
+margin: auto;
+width: 800px;
+font-family: Arial, Helvetica, sans-serif;
+position: fixed;
+left: 20%;
+}
+
+ul ol{
+list-style: none;
+}
+
+.nav > li{ 
+float: left;
+}
+
+.nav li a {
+background-color: rgb(253, 127, 205);
+color: antiquewhite;
+text-decoration: none;
+padding: 10px 12px;
+display: block;
+}
+
+.nav li a:hover{
+    background-color: blueviolet;
+}
+
+.nav li ul{
+ display: none;
+ position: absolute;
+}
