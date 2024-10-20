@@ -1,37 +1,33 @@
-.contenidos{
-width: 100%;
-height: 200px;
-background-color: aqua;
-}
+
 .encabezado{
 width: 100%;
-height: 80px;
-background-color: blue;
+height: 200px;
+background-color: rgb(250, 167, 225);
 font-size: 50PX;
 text-align: center;
 }
 .quimica{
     width: 100%;;
-    height: 150px;
+    height: 50px;
 background-color: blueviolet;
 }
 .sociales{
 width: 100%;
 height: 100px;
-background-color: aquamarine; 
+background-color: rgb(211, 160, 245); 
 }
 .biologia{
 width: 100%;
-height: 200px;
-background-color: rgb(157, 135, 177);
+height: 50px;
+background-color: rgb(180, 111, 245);
 }
 .tecnologia{
 width: 100;
-height: 600px;
-background-color: rgb(236, 236, 119);
+height: 50px;
+background-color: rgb(252, 91, 225);
 }
 .matematicas{
 width: 100%;
-height: 600;
-background-color: rgb(241, 176, 91);
+height: 50px;
+background-color: rgb(228, 117, 238);
 }

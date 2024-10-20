@@ -1,17 +1,282 @@
-/*temas del segundo periodo*/
+/*temas segundo periodo*/
+
 .texto{
-font-size: 50px;
-padding-top: 140px;
-text-align: justify;
-color: rgb(2, 2, 2);
-}
 
-.principal{
+    font-size: 80px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(245, 4, 116); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pricipal{
     display: flex;
+
+}
+body{
+background-image: url(FoNDo.avif);
+
+
+}
+ 
+.titulo{
+font-size: 80px;
+color: rgb(245, 5, 173);
+text-align: center;
+
+}
+.textoinicio{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+} 
+
+
+.img1{
+    height: 300px;
+    width: 400px;
+    background-image: url("FoNDo.jpg");
+    background-repeat: no-repeat;
 }
 
-body{
-background-image: url(FoNDo.jpg);
-background-repeat: no-repeat ;
+.mapaP2{
+height: 1000px;
+width: 900px;
+background-image: url("mapa\ sociales\ p2.png");
+background-repeat: no-repeat;
 
+
+}
+
+.titulo1{
+    font-size: 70px;
+    color: rgb(248, 2, 146);
+    text-align: center;
+}
+
+.titulo2{
+font-size: 50px;
+color: rgb(253, 1, 157);
+text-align: center;
+}
+
+.textoS{
+font-size: 40px;
+color: black;
+text-align: center;
+}
+
+.titulo1q{
+ font-size: 70px;
+ color: rgb(248, 2, 146);
+text-align: center;
+}
+
+.textoq{
+font-size: 40px;
+color: black;
+text-align: center;
+
+}
+
+.imgd1{
+height: 300px;
+width: 600px;
+    background-image: url(distribucion\ electronica\ 1.jpg);
+
+
+}
+
+.textoq2{
+font-size: 40px;
+color: black;
+text-align: center;
+}
+
+.imgd2{
+height: 1800px;
+width: 1400px;
+background-image: url(distribucion\ electronica\ 2.jpg);
+background-repeat: no-repeat;
+}
+ .titulot1{
+    font-size: 70px;
+    color: rgb(248, 2, 146);
+   text-align: center;
+}
+ .textot1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+ }
+
+ .imgt1{
+height: 400px;
+width: 600px;
+background-image: url(circuito\ tecnologia\ p2.png);
+background-repeat: no-repeat;
+ } 
+
+ .textot2{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+ }
+
+ .titulob1{
+    font-size: 70px;
+    color: rgb(248, 2, 146);
+   text-align: center;
+}
+
+.textob1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+.imgb1{
+    height: 600px;
+width: 600px;
+background-image: url(ciclo\ mwnstrual\ 1.png);
+background-repeat: no-repeat;
+}
+ .titulob2{
+    font-size: 40px;
+    color: rgb(248, 62, 164);
+    text-align: center;
+}
+.textob2{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+.imgb2{
+    height: 1500px;
+width: 1000px;
+background-image: url(Fases-del-Ciclo-Menstrual.jpg);
+background-repeat: no-repeat}
+
+.titulob3{
+    font-size: 40px;
+    color: rgb(248, 62, 164);
+    text-align: center;}
+
+    .textob3{
+        font-size: 40px;
+        color: black;
+        text-align: center;
+    }
+    
+    .imgb3{
+        height: 600px;
+    width: 800px;
+    background-image: url(hormonas.png);
+    background-repeat: no-repeat}
+
+    .titulom1{
+        font-size: 40px;
+        color: rgb(248, 62, 164);
+        text-align: center;}
+
+        .textom1{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+        }  
+
+        .imgm1{
+            height: 200px;
+        width: 300px;
+        background-image: url(suma\ de\ polinomios\ .png);
+        background-repeat: no-repeat}  
+        .textom2{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+        } 
+        .imgm2{
+            height: 200px;
+        width: 300px;
+        background-image: url(resta\ de\ polinomios\ .png);
+        background-repeat: no-repeat}
+
+        .textom3{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+        } 
+
+        .imgm3{
+            height: 200px;
+        width: 300px;
+        background-image: url(multiplicacion\ de\ polinomios.png);
+        background-repeat: no-repeat}
+
+        .textom4{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+        } 
+
+        .imgm4{
+            height: 200px;
+        width: 300px;
+        background-image: url(division\ de\ polinomios\ .png);
+        background-repeat: no-repeat}
+
+        .titulom2{
+            font-size: 40px;
+            color: rgb(248, 62, 164);
+            text-align: center;}
+
+            
+        .textom5{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+        } 
+
+       .logo{
+     height: 500px;
+    width: 500px;
+    background-image: url(logo\ pag\ web\ .png);
+    background-repeat: no-repeat;
+       }
+ .tituloinicio{
+font-size: 50px;
+color: blueviolet;
+text-align: center;
+
+ }
+  .textoinicio{
+ font-size: 40px;
+ color: black;
+ text-align: center;
+  }
+
+.foto{
+height: 500px;
+width: 350px;
+background-image: url(foto\ 1.jpg);
+background-repeat: no-repeat;
+}
+
+.correoytelefono{
+font-size: 40px;
+color: black;
+text-align: left;
+}
+
+.imglogo{
+    height: 500px;
+    width: 500px;
+    background-image: url(logo\ 2.png);
+    background-repeat: no-repeat;
+}
+
+.descripcionlogo{
+font-size: 40px;
+color: black;
+text-align: left;
 }
