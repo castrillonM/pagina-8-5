@@ -271,7 +271,7 @@ text-align: left;
 .imglogo{
     height: 500px;
     width: 500px;
-    background-image: url(logo\ 2.png);
+    background-image: url(logo\ 3.png);
     background-repeat: no-repeat;
 }
 
@@ -280,3 +280,176 @@ font-size: 40px;
 color: black;
 text-align: left;
 }
+
+.titulot3{
+    font-size: 40px;
+    color: rgb(248, 62, 164);
+    text-align: center;}
+
+    .textot31{
+font-size: 40px;
+color: black;
+text-align: center;
+    }
+    
+    .titulob3{
+        font-size: 40px;
+        color: rgb(248, 62, 164);
+        text-align: center;}
+ 
+        .textob1{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+                }
+
+
+ .imgbp31{
+    height: 200px;
+    width: 350px;
+    background-image: url(embarazo.png);
+    background-repeat: no-repeat;
+ }
+
+.titulob2{
+    
+        font-size: 40px;
+        color: rgb(248, 62, 164);
+        text-align: center;  
+}
+ 
+.textob2{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+        }
+         
+        
+        .imgbp31{
+            height: 200px;
+            width: 350px;
+            background-image: url(embarazo.png);
+            background-repeat: no-repeat;
+         }
+        
+         .imgbp32{
+            height: 600px;
+            width: 700px;
+            background-image: url(primer\ trimestre\ .png);
+            background-repeat: no-repeat;
+         }     
+
+         .textob3{
+            font-size: 40px;
+            color: black;
+            text-align: center;
+                }
+                 
+                .imgbp33{
+                    height: 600px;
+                    width: 700px;
+                    background-image: url(segundo\ trimestre\ .png);
+                    background-repeat: no-repeat;
+                 }     
+
+                 .textob4{
+                    font-size: 40px;
+                    color: black;
+                    text-align: center;
+                 }
+
+                 .imgbp34{
+                    height: 600px;
+                    width: 700px;
+                    background-image: url(tercer\ trimestre\ .png);
+                    background-repeat: no-repeat;
+                 }     
+
+                 .titulob4{
+    
+                    font-size: 40px;
+                    color: rgb(248, 62, 164);
+                    text-align: center; }
+
+                    .textob5{
+                        font-size: 40px;
+                        color: black;
+                        text-align: center;
+                     }
+    
+                     .titulob5{
+    
+                        font-size: 40px;
+                        color: rgb(248, 62, 164);
+                        text-align: center; }   
+                        
+                        .textob6{
+                            font-size: 40px;
+                            color: black;
+                            text-align: center;
+                         }
+
+                         .imgbp35{
+                            height: 600px;
+                            width: 700px;
+                            background-image: url(parto.png);
+                            background-repeat: no-repeat;
+                         }   
+                         
+                         .imgq1{
+                            height: 200px;
+                            width: 400px;
+                            background-image: url(enlace\ ionico\ .png);
+                            background-repeat: no-repeat;
+                         }     
+        
+                         .imgq2{
+                            height: 200px;
+                            width: 400px;
+                            background-image: url(enlace\ covalente\ .png);
+                            background-repeat: no-repeat;
+                         }     
+
+                         .imgq3{
+                            height: 200px;
+                            width: 400px;
+                            background-image: url(enlace\ metalicos\ .png);
+                            background-repeat: no-repeat;
+                         }     
+
+                         
+                 .tituloq1{
+    
+                    font-size: 40px;
+                    color: rgb(248, 62, 164);
+                    text-align: center; }
+
+                    .textoq1{
+                        font-size: 40px;
+                        color: black;
+                        text-align: center;
+                            }
+
+                            .titulomp31{
+    
+                                font-size: 40px;
+                                color: rgb(248, 62, 164);
+                                text-align: center; }
+            
+                                .textomp31{
+                                    font-size: 40px;
+                                    color: black;
+                                    text-align: center;
+                                        }
+            
+                                        .titulomp32{
+    
+                                            font-size: 40px;
+                                            color: rgb(248, 62, 164);
+                                            text-align: center; }
+                        
+                                            .textomp32{
+                                                font-size: 40px;
+                                                color: black;
+                                                text-align: center;
+                                                    }
